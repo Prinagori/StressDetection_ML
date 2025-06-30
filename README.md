@@ -45,6 +45,24 @@ Can we accurately detect psychological **stress** in individuals using biosensor
 | XGBoost       | 0.90     | 0.93            | 0.75              |
 
 ---
+###  Overall Dashboard View
+Displays overall stress vs no stress distribution with summary KPIs and heart rate trend 
+![Dashboard overview](images/full-view.png)
+
+---
+
+###  Filtered View: Stress Only
+Visualizes metrics and trends when only the "Stress" label is selected  
+![Dashboard overview](images/stress_view.png)
+
+---
+
+###  Filtered View: No Stress Only
+Visualizes metrics and trends when only the "No Stress" label is selected  
+![Dashboard overview](images/Nostress_view.png)
+
+
+---
 
 
 ##  Insights
