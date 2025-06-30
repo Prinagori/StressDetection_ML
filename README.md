@@ -14,12 +14,12 @@ Can we accurately detect psychological **stress** in individuals using biosensor
 
 - Original source: A multivariate dataset with **EDA (Electrodermal Activity)**, **HR (Heart Rate)**, **TEMP**, and a binary `label` column (1 = Stress, 0 = No Stress).
 
-> I initially tried:
->
-> - A **stratified sampled dataset** (to balance the dashboard visually)
-> - A **parquet version** (for performance)
->
-> However, **Power BI had rendering issues** with both—especially in categorical and KPI visuals—so I used the **original dataset** in `.csv` format.
+ I initially tried:
+
+ - A **stratified sampled dataset** (to balance the dashboard visually)
+ - A **parquet version** (for performance)
+
+ However, **Power BI had rendering issues** with both—especially in categorical and KPI visuals—so I used the **original dataset** in `.csv` format.
 
 ---
 
